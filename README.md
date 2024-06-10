@@ -25,7 +25,7 @@ Segurança: Para proteger os dados e garantir o acesso apenas a usuários autori
 
 Normalização: Para reduzir redundâncias e melhorar a integridade dos dados.
 
-Operações CRUD: Para facilitar a manipulação e gerenciamento dos dados.
+Operações CRUD: Para facilitar a manipulação e gerenciamento dos dados. Framework: Sails.js
 
 
 
