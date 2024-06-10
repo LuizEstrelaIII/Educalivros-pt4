@@ -21,7 +21,7 @@ Stored Procedures: Para melhorar a performance e reutilização do código SQL.
 
 Views: Para simplificar o acesso a dados complexos.
 
-Controles de Segurança: Para proteger os dados e garantir o acesso apenas a usuários autorizados.
+Segurança: Para proteger os dados e garantir o acesso apenas a usuários autorizados.
 
 Normalização: Para reduzir redundâncias e melhorar a integridade dos dados.
 
