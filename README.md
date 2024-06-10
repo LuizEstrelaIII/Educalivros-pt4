@@ -34,6 +34,7 @@ Views: Para simplificar o acesso a dados complexos.
 - Vendas por cliente
 
 Segurança: Para proteger os dados e garantir o acesso apenas a usuários autorizados.
+Criação de usuários: Gerente, Vendedor, Estoque e Financeiro
 
 Normalização: Para reduzir redundâncias e melhorar a integridade dos dados.
 
